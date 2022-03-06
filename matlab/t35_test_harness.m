@@ -1,6 +1,6 @@
 % Copyright (C) Hery A Mwenegoha 2022
 
-function [SUCCESS] = t35_test_harness()
+function t35_test_harness()
 SUCCESS = true;
 valid   = false;
 
