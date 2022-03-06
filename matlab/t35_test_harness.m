@@ -4,7 +4,7 @@ function [SUCCESS] = t35_test_harness()
 
 SUCCESS = false;
 
-% do stuff
+% do stuff here
 
 SUCCESS = true;
 
